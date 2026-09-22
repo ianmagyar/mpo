@@ -13,7 +13,7 @@ Prednášky z predmetu sú v utorok o 13:30 v miestnosti L9-B520 (hlavná budova
 
 |             Týždeň              |                       Prednáška                        |                  Cvičenie                    |              Termíny             |
 |:-------------------------------:|:------------------------------------------------------:|:--------------------------------------------:|----------------------------------|
-| 1. týždeň<br>21. 9. - 27. 9.    | Úvod do optimalizácie                                  | Návrh cieľových funkcií                      | Z1 publikované                   |
+| 1. týždeň<br>21. 9. - 27. 9.    | [Úvod do optimalizácie](lectures/MPO-Lecture01.pdf)    | Návrh cieľových funkcií                      | Z1 publikované                   |
 | 2. týždeň<br>28. 9. - 4. 10.    | Teória optimalizačných úloh                            | Analýza optimalizačného problému             | Z2 publikované                   |
 | 3. týždeň<br>5. 10. - 11. 10.   | Základná štruktúra evolučných algoritmov               | Implementácia evolučného algoritmu           |                                  |
 | 4. týždeň<br>12. 10. - 18. 10.  | Komponenty evolučných algoritmov                       | projektová práca                             | Z2 M1 odovzdanie                 |
