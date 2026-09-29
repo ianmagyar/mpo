@@ -13,8 +13,8 @@ Prednášky z predmetu sú v utorok o 13:30 v miestnosti L9-B520 (hlavná budova
 
 |             Týždeň              |                       Prednáška                        |                  Cvičenie                    |              Termíny             |
 |:-------------------------------:|:------------------------------------------------------:|:--------------------------------------------:|----------------------------------|
-| 1. týždeň<br>21. 9. - 27. 9.    | [Úvod do optimalizácie](lectures/MPO-Lecture01.pdf)    | Návrh cieľových funkcií                      | Z1 publikované                   |
-| 2. týždeň<br>28. 9. - 4. 10.    | Teória optimalizačných úloh                            | Analýza optimalizačného problému             | Z2 publikované                   |
+| 1. týždeň<br>21. 9. - 27. 9.    | [Úvod do optimalizácie](lectures/MPO-Lecture01.pdf)    | Návrh cieľových funkcií                      | [Z1 publikované](assignments/assignment1.md)                   |
+| 2. týždeň<br>28. 9. - 4. 10.    | [Teória optimalizačných úloh](lectures/MPO-Lecture02.pdf)                            | Analýza optimalizačného problému             | Z2 publikované                   |
 | 3. týždeň<br>5. 10. - 11. 10.   | Základná štruktúra evolučných algoritmov               | Implementácia evolučného algoritmu           |                                  |
 | 4. týždeň<br>12. 10. - 18. 10.  | Komponenty evolučných algoritmov                       | projektová práca                             | Z2 M1 odovzdanie                 |
 | 5. týždeň<br>19. 10. - 25. 10.  | Evolučná optimalizácia v praxi                         | Aplikácia evolučného algoritmu               |                                  |
@@ -36,7 +36,7 @@ Zápočet sa skladá z dvoch zadaní a z dvoch písomiek:
 |        Zložka       | Body |
 |:-------------------:|:----:|
 |       písomka       |  10  |
-|     1. zadanie      |  10  |
+|     [1. zadanie](assignments/assignment1.md)      |  10  |
 |     2. zadanie      |  20  |
 
 Prvé zadanie môžete odovzdať v 8. týždni, druhé zadanie sa odovzdáva v niekoľkých fázach v štyroch míľnikoch (vrátane finálnej odovzdávky).
