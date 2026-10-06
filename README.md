@@ -15,7 +15,7 @@ Prednášky z predmetu sú v utorok o 13:30 v miestnosti L9-B520 (hlavná budova
 |:-------------------------------:|:------------------------------------------------------:|:--------------------------------------------:|----------------------------------|
 | 1. týždeň<br>21. 9. - 27. 9.    | [Úvod do optimalizácie](lectures/MPO-Lecture01.pdf)    | Návrh cieľových funkcií                      | [Z1 publikované](assignments/assignment1.md)                   |
 | 2. týždeň<br>28. 9. - 4. 10.    | [Teória optimalizačných úloh](lectures/MPO-Lecture02.pdf)                            | Analýza optimalizačného problému             | Z2 publikované                   |
-| 3. týždeň<br>5. 10. - 11. 10.   | Základná štruktúra evolučných algoritmov               | Implementácia evolučného algoritmu           |                                  |
+| 3. týždeň<br>5. 10. - 11. 10.   | [Základná štruktúra evolučných algoritmov](lectures/MPO-Lecture03.pdf)               | [Implementácia evolučného algoritmu](labs/lab3/lab3-genetic-algorithms.ipynb)           |                                  |
 | 4. týždeň<br>12. 10. - 18. 10.  | Komponenty evolučných algoritmov                       | projektová práca                             | Z2 M1 odovzdanie                 |
 | 5. týždeň<br>19. 10. - 25. 10.  | Evolučná optimalizácia v praxi                         | Aplikácia evolučného algoritmu               |                                  |
 | 6. týždeň<br>26. 10. - 1. 11.   | Optimalizácia v strojovom učení                        | projektová práca                             | Z2 M2 odovzdanie                 |
