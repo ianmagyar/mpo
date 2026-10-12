@@ -16,12 +16,12 @@ Prednášky z predmetu sú v utorok o 13:30 v miestnosti L9-B520 (hlavná budova
 | 1. týždeň<br>21. 9. - 27. 9.    | [Úvod do optimalizácie](lectures/MPO-Lecture01.pdf)    | Návrh cieľových funkcií                      | [Z1 publikované](assignments/assignment1.md)                   |
 | 2. týždeň<br>28. 9. - 4. 10.    | [Teória optimalizačných úloh](lectures/MPO-Lecture02.pdf)                            | Analýza optimalizačného problému             | Z2 publikované                   |
 | 3. týždeň<br>5. 10. - 11. 10.   | [Základná štruktúra evolučných algoritmov](lectures/MPO-Lecture03.pdf)               | [Implementácia evolučného algoritmu](labs/lab3/lab3-genetic-algorithms.ipynb)           |                                  |
-| 4. týždeň<br>12. 10. - 18. 10.  | Komponenty evolučných algoritmov                       | projektová práca                             | Z2 M1 odovzdanie                 |
+| 4. týždeň<br>12. 10. - 18. 10.  | Komponenty evolučných algoritmov                       | projektová práca                             |                                  |
 | 5. týždeň<br>19. 10. - 25. 10.  | Evolučná optimalizácia v praxi                         | Aplikácia evolučného algoritmu               |                                  |
-| 6. týždeň<br>26. 10. - 1. 11.   | Optimalizácia v strojovom učení                        | projektová práca                             | Z2 M2 odovzdanie                 |
+| 6. týždeň<br>26. 10. - 1. 11.   | Optimalizácia v strojovom učení                        | projektová práca                             | Z2 M1 odovzdanie                 |
 | 7. týždeň<br>2. 11. - 8. 11.    | Optimalizácia pre odporúčacie systémy a personalizáciu | Grafové siete                                |                                  |
 | 8. týždeň<br>9. 11. - 15. 11.   | Optimalizácia pre foundation modely a pre AI agentov   | Prompt a reasoning optimalizácia LLM         | Z1 odovzdávka                    |
-| 9. týždeň<br>16. 11. - 22. 11.  | Optimalizácia pre zdravotníctvo a výpočtovú biológiu   | písomka                                      |                                  |
+| 9. týždeň<br>16. 11. - 22. 11.  | Optimalizácia pre zdravotníctvo a výpočtovú biológiu   | písomka                                      | Z2 M2 odovzdanie                 |
 | 10. týždeň<br>23. 11. - 29. 11. | Základy kvantových výpočtov                            | Kvantový simulátor                           |                                  |
 | 11. týždeň<br>30. 11. - 6. 12.  | Kvantová optimalizácia                                 | projektová práca                             | Z2 M3 odovzdanie                 |
 | 12. týždeň<br>7. 12. - 13. 12.  | Etická a zodpovedná optimalizácia                      | odovzdávanie zadaní                          |                                  |
@@ -37,6 +37,6 @@ Zápočet sa skladá z dvoch zadaní a z dvoch písomiek:
 |:-------------------:|:----:|
 |       písomka       |  10  |
 |     [1. zadanie](assignments/assignment1.md)      |  10  |
-|     2. zadanie      |  20  |
+|     [2. zadanie](assignments/assignment2.md)      |  20  |
 
 Prvé zadanie môžete odovzdať v 8. týždni, druhé zadanie sa odovzdáva v niekoľkých fázach v štyroch míľnikoch (vrátane finálnej odovzdávky).
