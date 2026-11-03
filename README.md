@@ -19,9 +19,9 @@ Prednášky z predmetu sú v utorok o 13:30 v miestnosti L9-B520 (hlavná budova
 | 4. týždeň<br>12. 10. - 18. 10.  | [Komponenty evolučného bloku](lectures/MPO-Lecture04.pdf)                       | projektová práca                             |                                  |
 | 5. týždeň<br>19. 10. - 25. 10.  | [Evolučné algoritmy v praxi](lectures/MPO-Lecture05.pdf)                             | projektová práca                             |                                  |
 | 6. týždeň<br>26. 10. - 1. 11.   | [Optimalizácia trénovania neurónových sietí](lectures/MPO-Lecture06.pdf)                        | Aplikácia evolučného algoritmu               | Z2 M1 odovzdanie                 |
-| 7. týždeň<br>2. 11. - 8. 11.    | Optimalizácia pre odporúčacie systémy a personalizáciu | Grafové siete                                |                                  |
-| 8. týždeň<br>9. 11. - 15. 11.   | Optimalizácia pre foundation modely a pre AI agentov   | Prompt a reasoning optimalizácia LLM         | Z1 odovzdávka                    |
-| 9. týždeň<br>16. 11. - 22. 11.  | Optimalizácia pre zdravotníctvo a výpočtovú biológiu   | písomka                                      | Z2 M2 odovzdanie                 |
+| 7. týždeň<br>2. 11. - 8. 11.    | [Optimalizácia v strojovom učení](lectures/MPO-Lecture07.pdf)                      | projektová práca                             |                                  |
+| 8. týždeň<br>9. 11. - 15. 11.   | Optimalizácia pre odporúčacie systémy a personalizáciu | Grafové siete                                | Z1 odovzdávka                    |
+| 9. týždeň<br>16. 11. - 22. 11.  | rektorské voľno                                        | písomka                                      | Z2 M2 odovzdanie                 |
 | 10. týždeň<br>23. 11. - 29. 11. | Základy kvantových výpočtov                            | Kvantový simulátor                           |                                  |
 | 11. týždeň<br>30. 11. - 6. 12.  | Kvantová optimalizácia                                 | projektová práca                             | Z2 M3 odovzdanie                 |
 | 12. týždeň<br>7. 12. - 13. 12.  | Etická a zodpovedná optimalizácia                      | odovzdávanie zadaní                          |                                  |
