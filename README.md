@@ -22,9 +22,9 @@ Prednášky z predmetu sú v utorok o 13:30 v miestnosti L9-B520 (hlavná budova
 | 7. týždeň<br>2. 11. - 8. 11.    | [Optimalizácia v strojovom učení](lectures/MPO-Lecture07.pdf)                      | projektová práca                             |                                  |
 | 8. týždeň<br>9. 11. - 15. 11.   | [Optimalizácia pre personalizáciu](lectures/MPO-Lecture08.pdf)                       | [Grafové siete](labs/lab8/lab8-gnn.ipynb)                                | Z1 odovzdávka                    |
 | 9. týždeň<br>16. 11. - 22. 11.  | rektorské voľno                                        | rektorské voľno                              | Z2 M2 odovzdanie                 |
-| 10. týždeň<br>23. 11. - 29. 11. | Základy kvantových výpočtov                            | Kvantový simulátor                           |                                  |
-| 11. týždeň<br>30. 11. - 6. 12.  | Kvantová optimalizácia                                 | zápočtová písomka                            | Z2 M3 odovzdanie                 |
-| 12. týždeň<br>7. 12. - 13. 12.  | Etická a zodpovedná optimalizácia                      | odovzdávanie zadaní                          |                                  |
+| 10. týždeň<br>23. 11. - 29. 11. | [Optimalizácia pre personalizáciu](lectures/MPO-Lecture08.pdf)                       | odovzdávanie zadaní                          |                                  |
+| 11. týždeň<br>30. 11. - 6. 12.  | Základy kvantových výpočtov                            | zápočtová písomka                            | Z2 M3 odovzdanie                 |
+| 12. týždeň<br>7. 12. - 13. 12.  | Kvantová optimalizácia                                 | Etická a zodpovedná optimalizácia            |                                  |
 | 13. týždeň<br>14. 12. - 20. 12. | zápočtový týždeň                                       | odovzdávanie zadaní                          | Z2 odovzdávka                    |
 
 ## Hodnotenie <a name="grading"></a>
